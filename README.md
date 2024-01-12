@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lemon&pause=1000&color=D132B8&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alessandra)](https://git.io/typing-svg)
 
 <!--
 **Aleale81/Aleale81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
