@@ -1,16 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lemon&pause=1000&color=D132B8&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alessandra)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Riot&size=44&duration=2500&pause=300&color=F711BC&background=1E19FF00&center=true&random=false&width=500&height=100&lines=Hi+there!;I'm+Alessandra+%F0%9F%99%82)](https://git.io/typing-svg)
 
-## Junior Web Developer based in Amsterdam
+### ... a Junior MERN Full Stack Developer based in Amsterdam
 
 Here are some info about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [📧](scaalessandra@icloud.com) , *[LinkedIn](https://www.linkedin.com/in/alessandra-scarpellini-8798aa93/?locale=en_US)*
-- 😄 Pronouns: she/her
+- 👩‍💻 I’m currently working on my [Portfolio](https://alessandra-scarpellini.netlify.app/)
+- 🎯 I’m currently learning: TypeScript
+- 👯 I’m looking to collaborate on wonderful projects!
+- 📫 How to reach me: [📧](mailto:scaalessandra@icloud.com?subject=[GitHub]%20Alessandra%20Scarpellini) , *[LinkedIn](https://www.linkedin.com/in/alessandra-scarpellini/)* 
 - ⚡ Fun fact: I love jokes!
+
+#
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=pinkish)
